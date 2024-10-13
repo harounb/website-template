@@ -1,6 +1,6 @@
 # Haroun's Website Template
 
-Simple template to build static websites with a bit off css and scripting.
+Simple template to build static websites with a bit of css and scripting.
 
 ## Dev dependencies
 
